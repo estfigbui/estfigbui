@@ -5,7 +5,7 @@ I´m an electronics engineer specialized in mobile development and information s
 
 - 📍 From Santiago de Cali, Colombia.
 - 🌱 I’m currently learning Flutter and Japanese.
-- 👯 I’m looking to collaborate on exciting projects and join new teams all around the world.
+- 👯 I’m looking to collaborate on exciting projects.
 - 💬 Ask me about anything. I´m always ready to help.
 - 📫 How to reach me: estefaniafigbui@gmail.com
 - 😄 Pronouns: she/her
