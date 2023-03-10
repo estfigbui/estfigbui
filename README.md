@@ -1,6 +1,8 @@
 # Hello, my name is Estefanía Figueroa Buitrago 👋
 ### Full-stack Android engineer
 
+![https://github.com/estfigbui](https://raw.githubusercontent.com/estfigbui/estfigbui/master/Banner.png)
+
 I´m an electronics engineer specialized in mobile development and information security. I have over 8 years of professional work experience and have contributed in challenging projects with teams from all over the world.
 
 - 📍 From Santiago de Cali, Colombia.
